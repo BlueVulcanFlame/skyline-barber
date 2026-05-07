@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   description:
     "Tailored haircuts, beard grooming, and modern men's grooming in the heart of Werribee. Walk-ins welcome. Call 0416 786 933.",
   icons: {
-    icon: "/favicon.jpg",
+    icon: "/favicon.png",
   },
 };
 
