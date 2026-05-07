@@ -10,8 +10,12 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Skyline Barber",
-  description: "Skyline Barber",
+  title: "Skyline Barber - Cut & Shave | Werribee",
+  description:
+    "Tailored haircuts, beard grooming, and modern men's grooming in the heart of Werribee. Walk-ins welcome. Call 0416 786 933.",
+  icons: {
+    icon: "/favicon.jpg",
+  },
 };
 
 export default function RootLayout({
